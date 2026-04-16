@@ -1,11 +1,9 @@
 {
   "owner": {
     "username": "yashwanthyashka",
-    "email": "yashwanthyashka05072@gmail.com"
+    "email": "yashwanth@example.com"
   },
-  "description": "portfolio for Yashwanth Kumar",
-  "repo": "https://github.com/yashwanthyashka/portfolio",
-  "record": {
-    "CNAME": "3e2fb89400714a2f.vercel-dns-017.com"
+  "records": {
+    "CNAME": "3e2fb89400714a2f.vercel-dns-017.com."
   }
 }
