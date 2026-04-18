@@ -1,0 +1,12 @@
+{
+  "description": "Personal Portfolio Website",
+  "repo": "https://github.com/yashwanthyashka/portfolio",
+  "owner": {
+    "username": "yashwanthyashka",
+    "email": "yashwanthyashka05072@gmail.com"
+  },
+  "proxied": true,
+  "records": {
+    "CNAME": "portfolio-two-sooty-fz1b2724ro.vercel.app"
+  }
+}
